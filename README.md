@@ -1,1 +1,1 @@
-# Proyecto-Hotel
+# Proyecto Hotel
