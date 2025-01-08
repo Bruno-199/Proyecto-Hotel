@@ -2,10 +2,10 @@
 
 para el back:
 
-cd back
-npm init -y
-npm i express
-npm i nodemon
-npm i mysql2
+crear una carpeta llamada back y acceder a ella:cd back
 
-crear las carpetas routes, controllers y config
+inicar por defecto: npm init -y
+
+instalar las siguientes dependencias: express, nodemon, mysql2
+
+crear las siguientes carpetas: routes, controllers y config
